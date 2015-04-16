@@ -282,6 +282,11 @@ $this->fontdata = array(
 		'useKashida' => 75,
 		),
 
+	"baufra" => array(
+		'R' => "bauframedium.ttf",
+        	'B' => "baufrasemibold.ttf",
+		),
+
 
 
 
